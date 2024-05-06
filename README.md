@@ -7,7 +7,7 @@ This is a JavaScript library containing various array manipulation algorithms im
 You can install this library via npm:
 
 ```bash
-npm install @jivij/dsa_package
+npm install array-algorithms-library
 ```
 
 ## Usage

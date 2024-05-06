@@ -1,5 +1,5 @@
 {
-  "name": "@jivij/dsa_package",
+  "name": "array-algorithms-library",
   "version": "1.0.0",
   "description": "A package made for developers to use dsa without writing the entire code in their apps",
   "main": "index.js",
