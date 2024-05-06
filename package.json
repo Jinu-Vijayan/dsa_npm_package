@@ -1,0 +1,23 @@
+{
+  "name": "@jivij/dsa_package",
+  "version": "1.0.0",
+  "description": "A package made for developers to use dsa without writing the entire code in their apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinu-Vijayan/dsa_npm_package.git"
+  },
+  "keywords": [
+    "dsa"
+  ],
+  "author": "Jinu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinu-Vijayan/dsa_npm_package/issues"
+  },
+  "homepage": "https://github.com/Jinu-Vijayan/dsa_npm_package#readme"
+}
